@@ -10,6 +10,7 @@ class calculate {
 public:
     static int incrementByOne();
     static void resetNumber();
+    static int currentNumber();
 };
 
 

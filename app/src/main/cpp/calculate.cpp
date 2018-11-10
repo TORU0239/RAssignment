@@ -13,3 +13,7 @@ int calculate::incrementByOne() {
 void calculate::resetNumber() {
     i = 0;
 }
+
+int calculate::currentNumber() {
+    return i;
+}

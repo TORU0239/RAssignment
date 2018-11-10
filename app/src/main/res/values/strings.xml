@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RAssignment</string>
+    <string name="result">Result: %d</string>
+    <string name="initial_state">Please push the button to increase integer!!</string>
 </resources>
